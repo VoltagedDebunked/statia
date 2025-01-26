@@ -1,0 +1,5 @@
+[package]
+name = "statia"
+version = "0.1.0"
+edition = "2021"
+description = "A Universal and Lightweight, Zero dependency Rust state management library."
