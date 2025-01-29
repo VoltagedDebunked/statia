@@ -40,7 +40,7 @@ transaction.commit();
 Add to Cargo.toml:
 ```toml
 [dependencies]
-statia = "0.1.0"
+statia = "0.1.2"
 ```
 
 ## License
